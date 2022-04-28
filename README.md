@@ -1,3 +1,4 @@
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianZeus&repo=Project-Omega)](https://github.com/ChristianZeus/Project-Alpha)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianZeus&repo=Project-Omega)](https://github.com/ChristianZeus/Project-Omega)
 ### Hi there 👋, BUI HUU DANH
 #### Control and Automation / Machine Learning 
