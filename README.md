@@ -2,7 +2,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianZeus&repo=Project-Omega)](https://github.com/ChristianZeus/Project-Omega)
 ### Hi there 👋, BUI HUU DANH
 #### Control and Automation / Machine Learning 
-![Control and Automation / Machine Learning ](https://cybernetics4u.files.wordpress.com/2021/08/75ld-3.gif?w=190&zoom=2)
+![Control and Automation / Machine Learning ](https://github.com/ChristianZeus/Zeus/blob/main/Intro-HELLO-FUTURE-1920x1080_v2.gif)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
