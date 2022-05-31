@@ -11,7 +11,7 @@ Here are the projects I've done. I hope you enjoy them and thank you for coming 
 
 Skills: Python / C
 
-- 🔭 I’m currently working on Senior at CanTho University 
+- 🔭 I’m currently working on Senior Student at CanTho University 
 - 🌱 I’m currently learning Python( OPP, GUI, Machine Learning) 
 - 👯 I’m looking to collaborate on Python Projects about GUI(with Tkinter), Image Processing (with OpenCV, PIL...), build Machine Learning models with Keras. 
 - 💬 Ask me about if you have any questions or need to contact me, please send me via email: buihuudanh040900@gmail.com. I would be happy to receive an email from you. Have a nice day !!! 
