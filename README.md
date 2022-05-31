@@ -4,7 +4,7 @@
 
 ![Control and Automation / Machine Learning ](https://github.com/ChristianZeus/Zeus/blob/main/deepLearning.gif)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+Here are the projects I've done. I hope you enjoy them and thank you for coming here !!!
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianZeus&repo=Project-Alpha)](https://github.com/ChristianZeus/Project-Alpha)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianZeus&repo=Project-Omega)](https://github.com/ChristianZeus/Project-Omega)
