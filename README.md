@@ -9,7 +9,7 @@ Here are the projects I've done. I hope you enjoy them and thank you for coming 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianZeus&repo=Project-Alpha)](https://github.com/ChristianZeus/Project-Alpha)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristianZeus&repo=Project-Omega)](https://github.com/ChristianZeus/Project-Omega)
 
-Skills: C / Python
+Skills: Python / C
 
 - 🔭 I’m currently working on Senior at CanTho University 
 - 🌱 I’m currently learning Python( OPP, GUI, Machine Learning) 
