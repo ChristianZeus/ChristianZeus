@@ -1,6 +1,6 @@
 
 ### Hi there 👋, My name is BUI HUU DANH, but you can call me Zeus.
-#### Control and Automation / Machine Learning 
+#### Control and Automation / Machine Learning Engineer
 
 ![Control and Automation / Machine Learning ](https://github.com/ChristianZeus/Zeus/blob/main/deepLearning.gif)
 
